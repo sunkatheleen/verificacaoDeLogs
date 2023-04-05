@@ -1,0 +1,25 @@
+
+05/04/2023 13:24:15 - https://www.linkedin.com.br-online: true
+05/04/2023 13:24:16 - https://twitter.com-online: true
+05/04/2023 13:24:16 - https://www.globo.com-online: true
+05/04/2023 13:24:16 - https://www.alura.com.br-online: true
+05/04/2023 13:24:27 - https://www.linkedin.com.br-online: true
+05/04/2023 13:24:27 - https://twitter.com-online: true
+05/04/2023 13:24:27 - https://www.globo.com-online: true
+05/04/2023 13:24:27 - https://www.alura.com.br-online: true
+05/04/2023 13:24:38 - https://www.linkedin.com.br-online: true
+05/04/2023 13:24:38 - https://twitter.com-online: true
+05/04/2023 13:24:38 - https://www.globo.com-online: true
+05/04/2023 13:24:38 - https://www.alura.com.br-online: true
+05/04/2023 13:54:44 - https://www.linkedin.com.br-online: true
+05/04/2023 13:54:45 - https://twitter.com-online: true
+05/04/2023 13:54:45 - https://www.globo.com-online: true
+05/04/2023 13:54:45 - https://www.alura.com.br-online: true
+05/04/2023 13:54:56 - https://www.linkedin.com.br-online: true
+05/04/2023 13:54:56 - https://twitter.com-online: true
+05/04/2023 13:54:56 - https://www.globo.com-online: true
+05/04/2023 13:54:56 - https://www.alura.com.br-online: true
+05/04/2023 13:55:07 - https://www.linkedin.com.br-online: true
+05/04/2023 13:55:07 - https://twitter.com-online: true
+05/04/2023 13:55:07 - https://www.globo.com-online: true
+05/04/2023 13:55:07 - https://www.alura.com.br-online: true
